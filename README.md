@@ -1,5 +1,5 @@
 # NLPLearning2025
-#GitPush
+# GitPush
 🧠 Best daily workflow (remember this)
 git status
 git add .
